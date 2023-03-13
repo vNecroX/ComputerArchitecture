@@ -1,0 +1,11 @@
+.DATA 20h 00h
+12h 
+.ORG 00h 01h
+16h 00h 
+1Eh 20h 
+1Ah 
+C6h 03h 
+16h 01h 
+1Eh 00h 
+12h 
+76h 

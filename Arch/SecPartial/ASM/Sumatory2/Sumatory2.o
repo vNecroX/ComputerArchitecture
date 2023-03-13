@@ -1,0 +1,73 @@
+.ORG 00h 01h
+3Eh 01h 
+32h 00h 00h 
+3Eh 02h 
+32h 01h 00h 
+3Eh 03h 
+32h 02h 00h 
+3Eh 04h 
+32h 03h 00h 
+CDh 18h 01h 
+76h 
+CDh 27h 01h 
+CDh 2Eh 01h 
+CDh 3Eh 01h 
+CDh 58h 01h 
+CDh 75h 01h 
+3Ah 00h 00h 
+32h 40h 00h 
+C9h 
+3Eh 03h 
+4Fh 
+3Ah 01h 00h 
+47h 
+3Eh 00h 
+CDh 8Dh 01h 
+32h 41h 00h 
+C9h 
+3Eh 03h 
+47h 
+4Fh 
+3Eh 00h 
+CDh 8Dh 01h 
+32h 22h 00h 
+4Fh 
+3Ah 02h 00h 
+47h 
+3Eh 00h 
+CDh 8Dh 01h 
+32h 42h 00h 
+C9h 
+3Eh 03h 
+47h 
+3Ah 22h 00h 
+4Fh 
+3Eh 00h 
+CDh 8Dh 01h 
+32h 23h 00h 
+4Fh 
+3Ah 03h 00h 
+47h 
+3Eh 00h 
+CDh 8Dh 01h 
+32h 43h 00h 
+C9h 
+3Ah 40h 00h 
+47h 
+3Ah 41h 00h 
+4Fh 
+3Ah 42h 00h 
+57h 
+3Ah 43h 00h 
+5Fh 
+3Eh 00h 
+80h 
+81h 
+82h 
+83h 
+67h 
+C9h 
+80h 
+0Dh 
+C2h 8Dh 01h 
+C9h 

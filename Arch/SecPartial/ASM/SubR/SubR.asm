@@ -1,0 +1,15 @@
+.ORG 0100H			
+	MVI B, 32H			
+	JMP START			
+
+START:						
+	CALL SUBR			
+	JMP START
+
+SUBR:				
+	DCR B				
+	JZ END			
+	RET
+
+END:
+	HLT

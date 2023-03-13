@@ -1,0 +1,9 @@
+.ORG 00h 01h
+06h 32h 
+C3h 05h 01h 
+CDh 0Bh 01h 
+C3h 05h 01h 
+05h 
+CAh 10h 01h 
+C9h 
+76h 

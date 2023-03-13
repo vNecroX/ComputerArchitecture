@@ -1,0 +1,14 @@
+.ORG 00h 01h
+16h 02h 
+3Eh 00h 
+CDh 08h 01h 
+76h 
+FEh 00h 
+CDh 15h 01h 
+FEh 01h 
+CDh 19h 01h 
+CDh 08h 01h 
+06h 03h 
+3Ch 
+C9h 
+77h 

@@ -1,0 +1,14 @@
+.DATA 0020H
+	DB 12H    
+
+.ORG 100H
+	MVI D, 00H	
+	MVI E, 20H	;*0020H = 12H
+
+	LDAX D	;A = *0020 = 12H (A<-D)
+	ADI 03H	
+	
+	MVI D, 01H
+	MVI E, 00H
+	STAX D	;*0100H = A = 15H
+	HLT
